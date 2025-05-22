@@ -170,5 +170,10 @@ wandb/
 dump*
 outputs*
 *.slurm
+.vscode/
+*dummy*
+*curated*
+validation_dataset/
+wan-framepack/
 
 !requirements.txt
